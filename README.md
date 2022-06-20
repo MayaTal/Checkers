@@ -1,5 +1,5 @@
 # Checkers
-Amrican Checkers game implemented in C# at .NET framework 2.0
+Checkers game implemented in C# at .NET framework 2.0
 
 # Instructions
 + select size of game board.
