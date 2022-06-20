@@ -1,0 +1,6 @@
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\CheckersLogic\bin\Debug\CheckersLogic.dll
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\CheckersLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\CheckersLogic\obj\Debug\CheckersLogic.csprojAssemblyReference.cache
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\CheckersLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\CheckersLogic\obj\Debug\CheckersLogic.dll
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\CheckersLogic\obj\Debug\CheckersLogic.pdb

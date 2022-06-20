@@ -1,0 +1,13 @@
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\UICheckers\bin\Debug\UICheckers.exe
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\UICheckers\bin\Debug\UICheckers.pdb
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\UICheckers\bin\Debug\CheckersLogic.dll
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\UICheckers\bin\Debug\CheckersLogic.pdb
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\UICheckers\obj\Debug\UICheckers.csprojAssemblyReference.cache
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\UICheckers\obj\Debug\UICheckers.FormCheckersGame.resources
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\UICheckers\obj\Debug\UICheckers.FormGameSettings.resources
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\UICheckers\obj\Debug\UICheckers.Properties.Resources.resources
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\UICheckers\obj\Debug\UICheckers.csproj.GenerateResource.cache
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\UICheckers\obj\Debug\UICheckers.csproj.CoreCompileInputs.cache
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\UICheckers\obj\Debug\UICheckers.csproj.CopyComplete
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\UICheckers\obj\Debug\UICheckers.exe
+C:\Users\maya\Desktop\שנה ב\סמסטר ב\C#\מטלות\תרגיל 5 חדש\B22 Ex05 LidarBenDor 207108903 MayaTal 315244574\UICheckers\obj\Debug\UICheckers.pdb
